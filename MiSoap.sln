@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiSoap", "MiSoap\MiSoap.csproj", "{437E841C-8FC3-45A7-A583-782253170C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteSoap", "ClienteSoap\ClienteSoap.csproj", "{2229E422-B07B-48CC-A888-5F6427402988}"
+	ProjectSection(ProjectDependencies) = postProject
+		{437E841C-8FC3-45A7-A583-782253170C98} = {437E841C-8FC3-45A7-A583-782253170C98}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437E841C-8FC3-45A7-A583-782253170C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437E841C-8FC3-45A7-A583-782253170C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437E841C-8FC3-45A7-A583-782253170C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437E841C-8FC3-45A7-A583-782253170C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2229E422-B07B-48CC-A888-5F6427402988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2229E422-B07B-48CC-A888-5F6427402988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2229E422-B07B-48CC-A888-5F6427402988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2229E422-B07B-48CC-A888-5F6427402988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44AB1A86-0F7F-45E2-ADC2-2A99B247E05B}
+	EndGlobalSection
+EndGlobal

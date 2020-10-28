@@ -1,0 +1,7 @@
+C:\Proyectos\proyectosCore\MiSoap\MiSoap\bin\MiSoap.dll.config
+C:\Proyectos\proyectosCore\MiSoap\MiSoap\bin\MiSoap.dll
+C:\Proyectos\proyectosCore\MiSoap\MiSoap\bin\MiSoap.pdb
+C:\Proyectos\proyectosCore\MiSoap\MiSoap\obj\Debug\MiSoap.csprojAssemblyReference.cache
+C:\Proyectos\proyectosCore\MiSoap\MiSoap\obj\Debug\MiSoap.csproj.CoreCompileInputs.cache
+C:\Proyectos\proyectosCore\MiSoap\MiSoap\obj\Debug\MiSoap.dll
+C:\Proyectos\proyectosCore\MiSoap\MiSoap\obj\Debug\MiSoap.pdb
